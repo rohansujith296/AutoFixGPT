@@ -13,7 +13,7 @@ AutoFix-GPT is an intelligent multi-modal assistant that predicts car damage typ
 - 💸 **Repair Cost Estimator**: Get contextual feedback and cost suggestions using a custom price knowledge vector DB.
 - 🧾 **PDF-based Knowledge RAG**: Embeds a dataset of repair/service costs for accurate LLM retrieval.
 - 🌐 **Streamlit UI**: Clean and interactive interface for image uploads, code inputs, and real-time feedback.
-- 🧰 **Modular Backend**: Flask-based API structure (optional) with clear file separation for easy debugging.
+
 
 ---
 
